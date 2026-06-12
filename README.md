@@ -12,11 +12,9 @@ Zomato Dataset (EDA)
 │── charts
 ├── countries.csv
 ├── zomato.csv
-├── zomato_dataset.ipynb# 🍽️ Zomato Dataset (EDA)
+├── zomato_dataset.ipynb
 ├── required.txt
 └── README.md
-```
-
 ---
 
 ## 📊 Dataset Overview
@@ -183,7 +181,12 @@ The following cuisines appear most frequently in the dataset:
 - Chinese cuisine appears frequently both independently and in combination with North Indian food.
 - Fast Food, Cafes, and Bakeries are among the most common restaurant categories.
 
----
+## ❓ Business Questions Answered
+1. Which countries dominate Zomato's restaurant listings?
+2. How are restaurant ratings distributed across the platform?
+3. Which cities in India have the highest restaurant density?
+4. What cuisines are most popular on Zomato?
+5. How widely is online delivery adopted across countries?
 
 ## 🛠️ Technologies Used
 
@@ -197,5 +200,3 @@ The following cuisines appear most frequently in the dataset:
 ## 📌 Conclusion
 
 This analysis reveals that Zomato's restaurant ecosystem is heavily concentrated in India, particularly in the NCR region. Customer ratings generally follow a normal distribution, indicating that most restaurants receive average ratings. North Indian cuisine dominates the platform, while online delivery services remain limited to India and UAE. These findings provide valuable insights into restaurant trends, customer behavior, and service availability across the Zomato platform.
-
-``'
