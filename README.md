@@ -197,6 +197,5 @@ The following cuisines appear most frequently in the dataset:
 ## 📌 Conclusion
 
 This analysis reveals that Zomato's restaurant ecosystem is heavily concentrated in India, particularly in the NCR region. Customer ratings generally follow a normal distribution, indicating that most restaurants receive average ratings. North Indian cuisine dominates the platform, while online delivery services remain limited to India and UAE. These findings provide valuable insights into restaurant trends, customer behavior, and service availability across the Zomato platform.
-├── required.txt
-└── README.md
+
 ``'
